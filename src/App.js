@@ -6,7 +6,8 @@ function App() {
   const [modal, setModal] = React.useState(false);
   return (
     <div className="App">
-      <div className="boxAnotacoes">
+      <div className="addTarefa">+</div>
+      <div className="boxTarefas">
         
       </div>
     </div>

@@ -7,12 +7,27 @@ body{
   background-color: #282A36;
 }
 
-/*CAIXA DE ANOTAÇÂO*/
-.boxAnotacoes{
+/*CAIXA DE TAREFAS*/
+.boxTarefas{
   width: 80%;
   max-width: 800px;
   background-color: white;
   padding: 30px 50px;
   margin: 10px auto;
   border-radius: 10px;
+}
+/*BOTÃO DE TAREFAS*/
+.addTarefa{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  background-color: teal;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 25px;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
 }
