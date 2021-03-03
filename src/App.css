@@ -3,3 +3,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  background-color: #282A36;
+}
+
+/*CAIXA DE ANOTAÇÂO*/
+.boxAnotacoes{
+  width: 80%;
+  max-width: 800px;
+  background-color: white;
+  padding: 30px 50px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
